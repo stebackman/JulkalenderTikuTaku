@@ -53,7 +53,7 @@ const backgrounds = [
   "images/mel-poole-LUPXhXj2ip0-unsplash.jpg",
   "images/toa-heftiba-WsDF95mSUsI-unsplash.jpg",
   "images/monika-grabkowska-yuAEcsAe4lk-unsplash.jpg",
-  "images/__-drz-__-YZZz0_MfHto-unsplash.jpg",
+  "images/pukki.jpg",
 ];
 
 function App() {
