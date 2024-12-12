@@ -2,13 +2,16 @@ import React from "react";
 import "./Hatch.css";
 
 function Hatch({ index, video, isOpen, openHatch, backgroundImage }) {
+  const handleOpen = () => openHatch(index);
+
   return (
     <div
       className="hatch"
       style={{
         backgroundImage: isOpen ? "none" : `url(${backgroundImage})`,
       }}
-      onClick={() => openHatch(index)}
+      onClick={handleOpen} // For mouse users
+      onTouchStart={handleOpen} // For touch devices
     >
       {isOpen && (
         <iframe
