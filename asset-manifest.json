@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/JulkalenderTikuTaku/static/css/main.e8a2ed3f.css",
-    "main.js": "/JulkalenderTikuTaku/static/js/main.7def3cce.js",
+    "main.js": "/JulkalenderTikuTaku/static/js/main.e30abc24.js",
     "static/js/453.5d0cb25c.chunk.js": "/JulkalenderTikuTaku/static/js/453.5d0cb25c.chunk.js",
     "index.html": "/JulkalenderTikuTaku/index.html",
     "main.e8a2ed3f.css.map": "/JulkalenderTikuTaku/static/css/main.e8a2ed3f.css.map",
-    "main.7def3cce.js.map": "/JulkalenderTikuTaku/static/js/main.7def3cce.js.map",
+    "main.e30abc24.js.map": "/JulkalenderTikuTaku/static/js/main.e30abc24.js.map",
     "453.5d0cb25c.chunk.js.map": "/JulkalenderTikuTaku/static/js/453.5d0cb25c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8a2ed3f.css",
-    "static/js/main.7def3cce.js"
+    "static/js/main.e30abc24.js"
   ]
 }
